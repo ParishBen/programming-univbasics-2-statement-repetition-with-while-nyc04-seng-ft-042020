@@ -1,9 +1,9 @@
 # Write your code here
-count = 11
- while count >=0 do
+count = 10
+ while count >=1 do
+  puts count
  count = count -1
- puts count
- break if count ==1
+ 
  end
  puts "Happy New Year!"
  
