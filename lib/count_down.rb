@@ -1,6 +1,9 @@
 # Write your code here
+count = 11
  while count >=0 do
-055:1* count = count -1
+ count = count -1
  puts count
-irb(main):057:1> break if count ==1
-irb(main):058:1> end
+ break if count ==1
+ end
+ puts "Happy New Year!"
+ 
